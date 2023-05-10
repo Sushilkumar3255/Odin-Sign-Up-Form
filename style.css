@@ -112,8 +112,7 @@ label {
 }
 
 .third,.hyperlink {
-    margin-left: 50px;
-    margin-top: 25px;
+    margin: 25px 0px 0px 50px;
 }
 
 .login {
@@ -156,4 +155,9 @@ label {
 h1 {
     font-family: Norse-Bold;
     font-size: 50px;
+}
+
+h3 {
+    margin-left: 50px;
+    padding-top: 20px;
 }
